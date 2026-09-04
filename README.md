@@ -12,8 +12,8 @@ Follow these steps to run the project locally:
 
 ```bash
 cd <your preferred directory>
-git clone https://github.com/kotyra911/shortener-service.git
-````
+git clone https://github.com/klimanskiy1/shortener-service.git
+```
 
 ### 2. Create environment files
 
